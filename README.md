@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+My name is Aleksandra and I am a second-year International Business student.
